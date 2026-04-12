@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://int2root.com/sitemap.xml
